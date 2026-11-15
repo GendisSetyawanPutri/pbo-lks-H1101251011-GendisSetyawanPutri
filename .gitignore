@@ -1,0 +1,9 @@
+# Dependencies
+vendor/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
